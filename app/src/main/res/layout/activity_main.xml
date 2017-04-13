@@ -48,7 +48,7 @@
             android:id="@+id/corpus_viewcount"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="(125454次阅读)"
+            android:text="(125454次查阅)"
             android:textSize="37sp" />
     </LinearLayout>
 
